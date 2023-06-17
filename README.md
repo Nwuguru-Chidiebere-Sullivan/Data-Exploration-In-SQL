@@ -1,5 +1,5 @@
 # Data-Exploration-In-SQL
-![]()
+![](/covid-19-variants.jpg)
 
 **Context**
 
