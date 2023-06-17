@@ -1,4 +1,4 @@
-# [Data-Exploration-In-SQL-With-Covid19-Dataset]()
+# [Data-Exploration-In-SQL-With-Covid19-Dataset](https://github.com/Nwuguru-Chidiebere-Sullivan/Data-Exploration-In-SQL/blob/main/data_exploration_with_sql.sql)
 ![](/covid-19-variants.jpg)
 
 **Context**
