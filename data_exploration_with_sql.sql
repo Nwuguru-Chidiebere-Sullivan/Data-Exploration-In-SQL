@@ -71,7 +71,7 @@ CREATE TABLE covid19_deaths
  )
  
   --Let's load the corresponding csv file into our second table
- COPY PUBLIC."covid19_deaths"
+ COPY PUBLIC."covid19_vaccinations"
  FROM 'C:\Users\HP\Desktop\CSV Files\CovidVacinations.csv'
  DELIMITER ','
  CSV HEADER;
